@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on a product design team with an app / website development
 - 📫 How to reach me: please contact me via my e-mail hankuo1234@gmail.com
-- 🦕 Nice to meet U :)
+- 🦕 Nice to meet U :）
 
 <!---
 tsunghankuo/tsunghankuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
