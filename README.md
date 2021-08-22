@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end, UI/UX, and Human-computer-interaction.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on a product design team with an app / website development
-- 📫 How to reach me: please contact me via my e-mail hankuo1234@gmail.com
+- 📫 How to reach me: please contact me via my e-mail hankuo1234@gmail.com / my linkedln: www.linkedin.com/in/tsunghankuo
 - 🦕 Nice to meet U :）
 
 <!---
